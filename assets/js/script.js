@@ -1,0 +1,1 @@
+https://ci-jshint.herokuapp.com/api?api_key=8ayrxz_zqDB7Ur2F6QigULY5REk
